@@ -125,7 +125,7 @@ class DragSortingTable extends React.Component {
     }, {
       key: '2',
       name: 'Jim Green',
-      age: 42,
+      age: 445,
       address: 'London No. 1 Lake Park',
     }, {
       key: '3',
